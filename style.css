@@ -1,0 +1,41 @@
+.my_nav_bar {
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+
+body {
+    background-color: gold;
+    text-shadow: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#vid {
+  margin-bottom: 100px;  
+}
+
+#acheivementsID {
+    padding-bottom: 10px
+}
+
+.movie_head {
+    font-size: 20ppx;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom; 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: skyblue
+}
